@@ -1,13 +1,5 @@
 // ==UserScript==
 // @name         krunkbot
-// @namespace    GuedesF
-// @version      2.4.6
-// @description  Mod menu for Krunker.io (Aimbot, Auto Reload, Auto BHop and more)
-// @author       GuedesF
-// @iconURL      https://cdn.discordapp.com/icons/692606346645733396/2c8c01e76973634afcaec17d22ba5e80.webp?size=128
-// @match        *://krunker.io/*
-// @run-at       document-start
-// @grant        none
 // ==/UserScript==
 
 /* eslint-disable no-caller */
